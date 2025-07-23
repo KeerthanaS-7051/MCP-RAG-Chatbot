@@ -17,8 +17,6 @@ A lightweight, modular chatbot that answers questions using **RAG (Retrieval-Aug
 ---
 
 
----
-
 ##  Getting Started
 
 ### 1. Clone the repo
