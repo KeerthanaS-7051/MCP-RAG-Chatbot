@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+sqlite3
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+tiktoken
+pydantic
+python-dotenv
